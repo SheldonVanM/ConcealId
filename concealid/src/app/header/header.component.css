@@ -1,0 +1,13 @@
+
+button {
+  margin-right: 1em;
+  background-color: purple;
+}
+
+button svg {
+  background-color: purple;
+}
+
+.header-spacer {
+  flex: 1 1 auto;
+}
